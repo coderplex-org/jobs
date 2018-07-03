@@ -1,8 +1,9 @@
-# Developer Job Openings in Hyderabad
+# Developer Job Openings in India
 
 ### Full Stack Web Dev | Full Time [Hiring Drive]
 **Company :** [Cyrrup](https://www.cyrrup.com/)   
 **Salary range :** 4LPA - 10 LPA  
+**Location :** Hyderabad 
 **Description :** Cyrrup is hiring Full Stack Web Developers who have expertise with **`Node JS`**, **`Vue JS`** and **`Firebase`**. Familarity with **`Python`** is a bonus.   
 
 **Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLSdYZ8Lyvyrkn9u9F_Ea3TxauOp3QTvlrhkGVVdbht7g2uhZFQ/viewform) and send your resume to our email id **`hr@coderplex.org`** with the Subject-line "[your name] Applying for Cyrrup - Full Stack Dev Position"
