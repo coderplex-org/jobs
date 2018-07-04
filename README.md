@@ -22,4 +22,14 @@ For experts, it's important that you have the ability to analyze security at lar
 
 <hr>
 
+### Computer Vision Internship | Full Time  
+**Company :** [Snap2Insight](http://www.snap2insight.com/)   
+**Salary Range :** 2.4LPA - 6LPA   
+**Location :** Hyderabad  
+**Description :** Snap2Insight is looking for Computer Vision interns to join their engineering team here in Hyderabad. You need to have some experience working with OpenCV, and a strong familarity with programming languages like C, C++ and Python. You can be a college student or a recent graduate.  
+
+**Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLScUwQ22_3B2CW9-r0Xr4x4BGRK1bs9EJR1xTEZf7y08bbrwbA/viewform) and send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Snap2Insight - CV Intern Position"  
+
+<hr>
+
 To receive updates for new tech job openings in Hyderabad, please [join the Coderplex Community](https://coderplex.org/join).
