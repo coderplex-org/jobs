@@ -10,6 +10,17 @@
 
 <hr>
 
+### Deep Learning Expert Role | Full Time [Hiring Drive]
+**Company :** [Cyrrup](https://www.cyrrup.com/)   
+**Salary range :** 7LPA - 18 LPA  
+**Location :** Hyderabad  
+**Description :** Cyrrup is hiring Deep Learning Experts with at least 3 years of working expereince
+
+**Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLSe-upcM34lUVr7NayLRW96q3qSbg71Mt2pdo_G8ufDppKz83g/viewform) and send your resume to our email id **`hr@coderplex.org`** with the Subject-line "[your name] Applying for Cyrrup - Deep Learning Expert Position"
+
+
+<hr>
+
 ### Blockchain / Haskell Developer | Full Time  
 **Company :** [Xoken Labs](https://www.xoken.org/)  
 **Salary Range :** 6LPA - 20LPA  
