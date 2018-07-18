@@ -1,23 +1,12 @@
 # Developer Job Openings in India
 
-### Full Stack Web Dev | Full Time [Hiring Drive]
-**Company :** [Cyrrup](https://www.cyrrup.com/)   
-**Salary range :** 4LPA - 10 LPA  
+### Software Developer | Full Time  
+**Company :** [Nebulae](https://nebulaesoft.com/)  
+**Salary Range :** 5.4LPA - 6.6LPA  
 **Location :** Hyderabad  
-**Description :** Cyrrup is hiring Full Stack Web Developers who have expertise with **`Node JS`**, **`Vue JS`** and **`Firebase`**. Familarity with **`Python`** is a bonus.   
+**Description :** Nebulae, a startup based out of Hyderabad, is looking for `Junior Software Developers` to join their team. If you have a experience programming in C++, Java, Python or any other object-oriented language and have a strong interest or familarity in Machine Learning and AI, and also have sufficient experience working in production environment, then this role is for you!    
 
-**Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLSdYZ8Lyvyrkn9u9F_Ea3TxauOp3QTvlrhkGVVdbht7g2uhZFQ/viewform) and send your resume to our email id **`hr@coderplex.org`** with the Subject-line "[your name] Applying for Cyrrup - Full Stack Dev Position"
-
-<hr>
-
-### Deep Learning Expert Role | Full Time [Hiring Drive]
-**Company :** [Cyrrup](https://www.cyrrup.com/)   
-**Salary range :** 7LPA - 18 LPA  
-**Location :** Hyderabad  
-**Description :** Cyrrup is hiring Deep Learning Experts with at least 3 years of working expereince
-
-**Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLSe-upcM34lUVr7NayLRW96q3qSbg71Mt2pdo_G8ufDppKz83g/viewform) and send your resume to our email id **`hr@coderplex.org`** with the Subject-line "[your name] Applying for Cyrrup - Deep Learning Expert Position"
-
+**Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLScY-wI2ot9oY250RBaWK3BVguYbXRig578I0M-UKn548_wxmw/viewform) and send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Nebulae - Software Developer Position"  
 
 <hr>
 
