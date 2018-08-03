@@ -10,25 +10,25 @@
 
 <hr>
 
-### Blockchain / Haskell Developer | Full Time  
-**Company :** [Xoken Labs](https://www.xoken.org/)  
-**Salary Range :** 6LPA - 20LPA  
-**Location :** Bangalore  
-**Description :** Xoken Labs, a blockchain startup based out of Bangalore, is looking for `Blockchain` and/or `Haskell` developers to join their team. If you have have familarity with Linux and other Open Source technologies, like to challenge yourself to learn new programming languages and tools, can apply Data Structures and Algorithms to solve problems and have a rudimentary understanding of Networking fundamentals, then this role is for you!    
+### Python And/Or Node Developer | Full Time  
+**Company :** [Maventus](https://mavsocial.com/)  
+**Salary Range :** 6LPA - 12LPA  
+**Location :** Hyderabad  
+**Description :** Maventus, a product based multi-national company, is looking for developers with 2-5 years of experience working with Node and/or Python in a production environement to join their Hyderabad based team. Having some familarity with frontend libraries like React would be beneficial. 
 
-For experts, it's important that you have the ability to analyze security at large scale systems, experience working with distributed systems, and managing complex systems and patterns.  
+Note : The interview process will include solving some basic algorithm questions, and testing your expertise in the respective tech stack that you're applying for. 
 
-**Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLSe71zZt1jhiyoJq0gwt0Oki1w3HIXF0pR5ReqP6RWigR9mO0Q/viewform) and send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Xoken Labs - Blockchain / Haskell Developer Position"  
+**Apply :** If you would like to apply for this position, send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Maventus Python-Node Dev Position"  
 
 <hr>
 
-### Computer Vision Internship | Full Time  
-**Company :** [Snap2Insight](http://www.snap2insight.com/)   
-**Salary Range :** 2.4LPA - 6LPA   
+### Senior Team Lead Position | Full Time  
+**Company :** [Maventus](https://mavsocial.com/)   
+**Salary Range :** 12LPA-18LPA   
 **Location :** Hyderabad  
-**Description :** Snap2Insight is looking for Computer Vision interns to join their engineering team here in Hyderabad. You need to have some experience working with OpenCV, and a strong familarity with programming languages like C, C++ and Python. You can be a college student or a recent graduate.  
+**Description :** Maventus, a product based multi-national company, is looking for a tech lead with minimum of 8 years of experience working in the industry, with strong expertise in one or more programming languages, familarity with code architechture and scalabity, and experience in leading teams. 
 
-**Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLScUwQ22_3B2CW9-r0Xr4x4BGRK1bs9EJR1xTEZf7y08bbrwbA/viewform) and send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Snap2Insight - CV Intern Position"  
+**Apply :** If you would like to apply for this position, send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Maventus Senior Team Lead Position"  
 
 <hr>
 
