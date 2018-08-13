@@ -24,7 +24,7 @@ Note : The interview process will include solving some basic algorithm questions
 
 ### Senior Team Lead Position | Full Time  
 **Company :** [Maventus](https://mavsocial.com/)   
-**Salary Range :** 12LPA-18LPA   
+**Salary Range :** 12LPA-24LPA   
 **Location :** Hyderabad  
 **Description :** Maventus, a product based multi-national company, is looking for a tech lead with minimum of 8 years of experience working in the industry, with strong expertise in one or more programming languages, familarity with code architechture and scalabity, and experience in leading teams. 
 
