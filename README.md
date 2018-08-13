@@ -6,7 +6,7 @@
 **Location :** Hyderabad  
 **Description :** Nebulae, a startup based out of Hyderabad, is looking for `Junior Software Developers` to join their team. If you have a experience programming in C++, Java, Python or any other object-oriented language and have a strong interest or familarity in Machine Learning and AI, and also have sufficient experience working in production environment, then this role is for you!    
 
-**Apply :** If you would like to apply for this position, [submit this application form](https://docs.google.com/forms/d/e/1FAIpQLScY-wI2ot9oY250RBaWK3BVguYbXRig578I0M-UKn548_wxmw/viewform) and send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Nebulae - Software Developer Position"  
+**Apply :** If you would like to apply for this position, send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Nebulae - Software Developer Position"  
 
 <hr>
 
