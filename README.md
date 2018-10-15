@@ -4,7 +4,7 @@
 **Company :** [SignalX](http://www.signalx.ai)  
 **Salary Range :** 3.6LPA - 12LPA  
 **Location :** Hyderabad  
-**Description :** SignalX, a startup based out of Hyderabad, is looking for `Software Developers` to join their team. If you have a strong expertise and experience working with Python and/or Node JS and you have some familarity and interest in Machine Learning and AI, then you should apply for this role!    
+**Description :** SignalX, a startup based out of Hyderabad, is looking for `Software Developers` to join their team. If you have a strong expertise and experience working with Python and/or Node JS and you have some familarity and interest in Machine Learning and AI, then you should apply for this role! You can [read the full Job Description here](https://docs.google.com/document/d/10hFGJTf1RmSmJNzAGBWUWWLW3L02_hjK0_RWspQCYCU/edit?usp=sharing).
 
 **Apply :** If you would like to apply for this position, send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Nebulae - Software Developer Position"  
 
