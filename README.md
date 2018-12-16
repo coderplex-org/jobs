@@ -1,5 +1,25 @@
 # Developer Job Openings in India
 
+### Junior Frontend Developer | Full Time  
+**Company :** [Edyst](https://edyst.com/)  
+**Salary Range :** 6LPA - 8LPA  
+**Location :** Hyderabad  
+**Description :** Edyst, a Ed-Tech startup based out of Hyderabad, is looking for `Junior Frontend Developers` to join their team. If you have a strong expertise and experience working any of the popular frontend libraries like React or Vue JS a, then you should apply for this role! You can [read the full Job Description here](https://angel.co/edyst/jobs/398558-javascript-frontend-developer).
+
+**Apply :** If you would like to apply for this position, send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Edyst - Junior Frontend Developer Position"  
+
+<hr>
+
+### Senior Frontend Engineer | Full Time  
+**Company :** [Edyst](https://edyst.com/)  
+**Salary Range :** 14LPA - 21LPA  
+**Location :** Hyderabad  
+**Description :** Edyst, a Ed-Tech startup based out of Hyderabad, is looking for `Senior Frontend Engineers` to join their team. If you have a strong expertise in the frontend domnain, and have at least 2+ years of experience working on and leading a complex frontend application, then you should apply for this role! You can [read the full Job Description here](https://angel.co/edyst/jobs/473514-senior-frontend-engineer).
+
+**Apply :** If you would like to apply for this position, send your resume to our email id **`hr@coderplex.org`** with the subject-line "[your name] Applying for Edyst - Senior Frontend Engineer Position"  
+
+<hr>
+
 ### Software Developer | Full Time  
 **Company :** [SignalX](http://www.signalx.ai)  
 **Salary Range :** 3.6LPA - 12LPA  
